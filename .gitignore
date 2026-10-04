@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# mac generated files
+*/.DS_Store
+
 # models folder
 models/
 */adapters
