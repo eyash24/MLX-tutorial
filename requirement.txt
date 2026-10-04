@@ -1,0 +1,12 @@
+mlx
+asitop # apple gpu and cpu usage tracker
+numpy
+mlx-lm
+datasets
+notebook
+pandas
+transformers
+datasets
+accelerate
+bitsandbytes
+wandb
